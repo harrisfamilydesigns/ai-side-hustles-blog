@@ -129,3 +129,17 @@ This is our centralized dashboard for managing all the affiliate partners we rec
 *   **Commission:** 30% recurring
 *   **Sign Up:** https://www.smartwriter.ai/affiliates
 *   **Tracking Link:** `[PENDING]`
+
+---
+
+## 9. Real Estate & Local SEO (Article 9)
+
+**VirtualStagingAI**
+*   **Commission:** 20% recurring
+*   **Sign Up:** https://www.virtualstagingai.app/affiliate
+*   **Tracking Link:** `[PENDING]`
+
+**Surfer SEO**
+*   **Commission:** 25% recurring
+*   **Sign Up:** https://surferseo.com/affiliate-program/
+*   **Tracking Link:** `[PENDING]`
