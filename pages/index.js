@@ -5,7 +5,7 @@ export default function Index({ allPosts }) {
   return (
     <div className="container">
       <h1 style={{ fontSize: '3rem', color: '#111827', textAlign: 'center' }}>AI-Powered Side Hustles 💰</h1>
-      <p style={{ textAlign: 'center', color: '#4b5563', fontSize: '1.2rem', marginBottom: '3rem' }}>Mining for profitable niches, block by block.</p>
+      <p style={{ textAlign: 'center', color: '#4b5563', fontSize: '1.2rem', marginBottom: '3rem' }}>Actionable blueprints and tools to build a high-margin business with AI.</p>
       
       <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
         {allPosts.map((post) => (
