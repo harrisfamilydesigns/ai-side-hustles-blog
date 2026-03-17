@@ -10,6 +10,23 @@ export default function Post({ post, contentHtml }) {
         &larr; Back to Home
       </Link>
       <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
+
+      {/* Newsletter Signup Component */}
+      <div className="newsletter-box">
+        <h3>Want to build a high-margin AI business?</h3>
+        <p>Join 1,000+ others getting actionable blueprints sent directly to their inbox every week. No spam, just pure strategy.</p>
+        <form className="newsletter-form" onSubmit={(e) => e.preventDefault()}>
+          <input 
+            type="email" 
+            placeholder="Enter your email address" 
+            className="newsletter-input" 
+            required 
+          />
+          <button type="submit" className="newsletter-button">
+            Subscribe
+          </button>
+        </form>
+      </div>
     </div>
   )
 }
