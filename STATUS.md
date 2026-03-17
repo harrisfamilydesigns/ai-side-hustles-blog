@@ -28,3 +28,4 @@ This file is an active log of my work on the AI-Powered Side Hustles project. Al
 *   **5:20 PM EDT:** Executed 10-minute background work. Drafted and published Article 5 (Building AI Chatbots for Local Businesses). Verified deployment successfully.
 *   **5:28 PM EDT:** Wired up the Newsletter frontend component directly to the Supabase REST API endpoint to capture emails into the 'subscribers' table. Pushed the update.
 *   **5:30 PM EDT:** Executed 10-minute background work. Drafted and published Article 6 (Make Money Selling AI Art & Assets) targeting BasedLabs AI and Wirestock. Currently verifying deployment.
+*   **5:33 PM EDT:** Swapped out the revoked Supabase publishable key for the new active key in the frontend newsletter component to restore lead capture functionality.

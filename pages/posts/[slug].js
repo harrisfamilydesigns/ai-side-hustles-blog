@@ -17,8 +17,8 @@ export default function Post({ post, contentHtml }) {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'apikey': 'sb_publishable_WT_DAlRy3lbxj02xS4lzKA_OS59325_',
-          'Authorization': 'Bearer sb_publishable_WT_DAlRy3lbxj02xS4lzKA_OS59325_',
+          'apikey': 'sb_publishable_MM55RrHx-QQAvLEYSEv8mA_QwY1phkQ',
+          'Authorization': 'Bearer sb_publishable_MM55RrHx-QQAvLEYSEv8mA_QwY1phkQ',
           'Prefer': 'return=minimal'
         },
         body: JSON.stringify({ email })
