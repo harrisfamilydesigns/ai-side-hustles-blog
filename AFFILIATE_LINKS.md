@@ -91,3 +91,22 @@ This is our centralized dashboard for managing all the affiliate partners we rec
 *   **Commission:** 40% lifetime recurring
 *   **Sign Up:** https://www.basedlabs.ai/affiliate
 *   **Tracking Link:** `[PENDING]`
+
+---
+
+## 7. Short-Form Video & Voice (Article 7)
+
+**Munch**
+*   **Commission:** 15% recurring
+*   **Sign Up:** https://www.getmunch.com/affiliate
+*   **Tracking Link:** `[PENDING]`
+
+**ElevenLabs**
+*   **Commission:** 20% recurring (varies)
+*   **Sign Up:** https://elevenlabs.io/affiliates
+*   **Tracking Link:** `[PENDING]`
+
+**Opus Clip**
+*   **Commission:** 25% recurring
+*   **Sign Up:** https://www.opus.pro/affiliate
+*   **Tracking Link:** `[PENDING]`
