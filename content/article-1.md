@@ -7,7 +7,7 @@ meta_description: "Learn how to 10x your freelance copywriting output and revenu
 
 # Top 5 AI Writing Tools to Start a Freelance Copywriting Business in 2026
 
-![AI Copywriting Workspace](https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format# Top 5 AI Writing Tools to Start a Freelance Copywriting Business in 2026fit=crop# Top 5 AI Writing Tools to Start a Freelance Copywriting Business in 2026w=800# Top 5 AI Writing Tools to Start a Freelance Copywriting Business in 2026q=80)
+![AI Copywriting Workspace](https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80)
 
 
 If you want to start a freelance copywriting business in 2026, you don't need a degree in English or years of agency experience. You need the right AI writing stack. 

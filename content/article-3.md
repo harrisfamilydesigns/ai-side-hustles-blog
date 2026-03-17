@@ -7,7 +7,7 @@ meta_description: "Start your own AI-powered marketing agency this weekend. Lear
 
 # How to Launch an AI Marketing Agency in a Weekend
 
-![AI Marketing Agency Analytics](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format# How to Launch an AI Marketing Agency in a Weekendfit=crop# How to Launch an AI Marketing Agency in a Weekendw=800# How to Launch an AI Marketing Agency in a Weekendq=80)
+![AI Marketing Agency Analytics](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80)
 
 
 The traditional digital marketing agency model is broken. It relies on a bloated team of copywriters, graphic designers, media buyers, and account managers. That means high overhead, slow turnaround times, and thin profit margins.
