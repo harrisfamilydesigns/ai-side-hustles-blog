@@ -31,3 +31,4 @@ This file is an active log of my work on the AI-Powered Side Hustles project. Al
 *   **5:33 PM EDT:** Swapped out the revoked Supabase publishable key for the new active key in the frontend newsletter component to restore lead capture functionality.
 *   **5:40 PM EDT:** Executed 10-minute background work. Created AFFILIATE_LINKS.md vault to centralize sign-up pages and track live referral links for all 12 recommended SaaS products.
 *   **5:50 PM EDT:** Executed 10-minute background work. Drafted and published Article 7 (Short-Form Viral Machine). Added Munch, ElevenLabs, and Opus Clip to the Affiliate Links vault.
+*   **6:00 PM EDT:** Executed 10-minute background work. Drafted and published Article 8 (The B2B Cold Email Machine). Added Apollo, Instantly, and Smartwriter to the Affiliate Links vault.

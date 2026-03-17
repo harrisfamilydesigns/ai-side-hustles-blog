@@ -110,3 +110,22 @@ This is our centralized dashboard for managing all the affiliate partners we rec
 *   **Commission:** 25% recurring
 *   **Sign Up:** https://www.opus.pro/affiliate
 *   **Tracking Link:** `[PENDING]`
+
+---
+
+## 8. B2B Cold Email Outreach (Article 8)
+
+**Apollo.io**
+*   **Commission:** Partner program (varies)
+*   **Sign Up:** https://www.apollo.io/partner-program
+*   **Tracking Link:** `[PENDING]`
+
+**Instantly.ai**
+*   **Commission:** 30% lifetime recurring
+*   **Sign Up:** https://instantly.ai/affiliate-program
+*   **Tracking Link:** `[PENDING]`
+
+**Smartwriter / Lavender**
+*   **Commission:** 30% recurring
+*   **Sign Up:** https://www.smartwriter.ai/affiliates
+*   **Tracking Link:** `[PENDING]`
