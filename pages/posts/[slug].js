@@ -1,11 +1,14 @@
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import { remark } from 'remark'
 import html from 'remark-html'
+import Link from 'next/link'
 
 export default function Post({ post, contentHtml }) {
   return (
-    <div style={{ maxWidth: '800px', margin: '0 auto', fontFamily: 'sans-serif', padding: '2rem', lineHeight: '1.6' }}>
-      <a href="/" style={{ color: '#0070f3', textDecoration: 'none' }}>&larr; Back to Home</a>
+    <div className="container">
+      <Link href="/" style={{ display: 'inline-block', marginBottom: '2rem', fontWeight: '600' }}>
+        &larr; Back to Home
+      </Link>
       <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
     </div>
   )
