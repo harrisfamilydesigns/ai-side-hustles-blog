@@ -6,7 +6,6 @@ export default function Post({ post, contentHtml }) {
   return (
     <div style={{ maxWidth: '800px', margin: '0 auto', fontFamily: 'sans-serif', padding: '2rem', lineHeight: '1.6' }}>
       <a href="/" style={{ color: '#0070f3', textDecoration: 'none' }}>&larr; Back to Home</a>
-      <h1>{post.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
     </div>
   )
