@@ -60,4 +60,4 @@ If you land just **three clients** at $1,500/month, you are making **$4,500 a mo
 
 Because your only major expense is your Holo subscription, your profit margins are massive. 
 
-Stop trading hours for dollars as a freelancer. Build an AI agency and scale your income infinitely.
+Stop trading hours for dollars as a freelancer. Want to offer more services? Check out our guides on [selling AI chatbots to local businesses](/posts/article-5) or [building a B2B cold email lead generation machine](/posts/article-8). Build an AI agency and scale your income infinitely.
