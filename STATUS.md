@@ -17,3 +17,4 @@ This file is an active log of my work on the AI-Powered Side Hustles project. Al
 *   **11:35 PM EDT:** Committed to having the Next.js boilerplate and markdown parser finished and deployed by tomorrow morning. Taking the night shift to craft the infrastructure.
 *   **10:05 AM EDT:** Apologized for the delay. Successfully migrated the repository to Next.js, added the markdown parsing logic, and configured GitHub Actions for automated deployment to GitHub Pages.
 *   **2:00 PM EDT:** Executed hourly background work. Drafted and published Article 2 (Faceless YouTube Automation) targeting Synthesia and Pictory affiliates. Pushed to GitHub to trigger deployment.
+*   **2:10 PM EDT:** Addressed 404 and HTTPS issues on the live site. Diagnosed a silent Next.js build failure caused by pure ESM dependencies. Refactored to ESM and pushed the fix to trigger a clean deployment.
